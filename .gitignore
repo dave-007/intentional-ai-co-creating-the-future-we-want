@@ -1,0 +1,22 @@
+# Marp files
+.marp-cache/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+*.pdf
+*.pptx
+*.html
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~ 
