@@ -1,55 +1,81 @@
-# Marp Presentation
 
-This repository contains a presentation created using [Marp](https://marp.app/), a Markdown presentation ecosystem.
+Hello!
+This is the repo for my talk:
 
-## Structure
+# Teach to Learn Azure in 2024
 
-- `slides/` - Contains the presentation files
-  - `Slides.md` - Main presentation file (Markdown)
-  - `themes/` - Custom CSS themes for the presentation
-  - `img/` - Images used in the presentation
+I've adapted [Chris Ayer's](http://chris-ayers.com/) MARP template to create the [slides for my presentation.](https://dave-007.github.io/intentional-ai-co-creating-the-future-we-want/)
 
-## How to Use
+---
 
-### Prerequisites
+---
 
-- [Node.js](https://nodejs.org/)
-- [Marp CLI](https://github.com/marp-team/marp-cli)
+---
 
-### Installation
+# Marp Slides Template
 
-1. Clone this repository
-2. Install Marp CLI globally:
-   ```bash
-   npm install -g @marp-team/marp-cli
-   ```
+[Use this template!](https://github.com/codebytes/marp-slides-template/generate)
 
-### Viewing the Presentation
+Create a Marp presentation site that can be built and published on [GitHub Pages] using this minimal template. The site features:
 
-To preview the presentation in your browser:
-
-```bash
-marp -s slides/Slides.md
-```
-
-### Exporting the Presentation
-
-To export the presentation to PDF:
-
-```bash
-marp --pdf slides/Slides.md
-```
-
-To export the presentation to PowerPoint:
-
-```bash
-marp --pptx slides/Slides.md
-```
+- Marp integration
+- A GitHub Pages / Actions workflow for build and publish ([See a preview](http://chris-ayers.com/marp-slides-template/))
+- A DevContainer/CodeSpace configuration with Marp and Markdown preview extensions
+- Chrome installation for PDF and PowerPoint slide creation on Linux
 
 ## Customization
 
-You can customize the presentation by editing the Markdown file (`slides/Slides.md`) and the CSS theme files in the `slides/themes` directory.
+Feel free to customize the sites created with this template as you like!
 
-## License
+## Getting Started
 
-This project is licensed under the terms of the included LICENSE file. 
+1. Click "[use this template]" to create a new site.
+2. Update the content of `slides/Slides.md` with your own presentation.
+
+## Custom Themes
+
+This template includes four custom themes in the `slides/themes` folder:
+
+- custom
+- custom-default (based on the built-in default theme)
+- custom-gaia (based on the built-in gaia theme)
+- custom-uncover (based on the built-in uncover theme)
+
+To use a custom theme, edit the relevant css file and add its reference in the front matter of `Slides.md`. For example, to use `custom-default` add the following to the `Slides.md` front matter:
+
+```markdown
+---
+marp: true
+theme: custom-default
+---
+```
+
+For additional themes, add them to the devcontainer and follow the [Marp custom theme documentation](https://marpit.marp.app/theme-css).
+
+## Publishing on GitHub Pages
+
+1. In your GitHub repo, navigate to `Settings` > `Pages` > `Build and deployment`.
+2. Select `Source`: `GitHub Actions`.
+3. If any Actions failed, go to the `Actions` tab and click on `Re-run jobs`.
+
+## Local Build and Preview
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/).
+2. Install the [Marp for VS Code extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+3. Open `slides/Slides.md` in VS Code.
+
+## Licensing and Attribution
+
+This repository is licensed under the [MIT License]. Reuse or extend the code as you wish, but include the original license. The deployment GitHub Actions workflow is based on GitHub's starter workflows.
+
+## Resources
+
+- [Use this template](https://github.com/codebytes/marp-slides-template/generate)
+
+- GitHub Pages: [https://docs.github.com/en/pages](https://docs.github.com/en/pages)
+
+- CommonMark markdown syntax: [https://commonmark.org/help/](https://commonmark.org/help/)
+
+- Marp Official Repository: [https://github.com/marp-team/marp](https://github.com/marp-team/marp)
+- Marp Official Documentation: [https://marpit.marp.app/markdown](https://marpit.marp.app/markdown)
+- Marp for VS Code Documentation: [https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)

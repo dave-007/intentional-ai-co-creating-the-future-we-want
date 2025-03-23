@@ -2,12 +2,12 @@
 marp: true
 theme: custom-dave
 class: invert
-footer: 'LI: davidcobb'
+footer: 'LI: [davidcobb](https://linkedin.com/in/davidcobb)'
 paginate: true
 style: |
-  section {
+  /* section {
     font-size: 28px;
-  }
+  } */
   
 ---
 
