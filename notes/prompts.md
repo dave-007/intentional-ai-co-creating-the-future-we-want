@@ -5,3 +5,7 @@ The right path leads to a vibrant, harmonious future: humans and AI working toge
 
 At the fork stands a human figure in silhouette, choosing between the two. Light spills from the flourishing side, while shadows loom from the dystopian side. The composition should evoke choice, contrast, and possibility.
 ---
+
+A few students in a cafe having an uproarious conversation with robots. comic conversation bubbles hover above, look like HUD screens hover above with large emojis
+
+used SD 3.5, seed 93367792
