@@ -5,9 +5,9 @@ class: invert
 footer: 'LI: [davidcobb](https://linkedin.com/in/davidcobb)'
 paginate: true
 style: |
-  /* section {
+  section {
     font-size: 28px;
-  } */
+  }
   
 ---
 
@@ -24,6 +24,7 @@ _A 30-minute talk on reframing AI as a thought partner, not a boss._
 ---
 
 <div class="container">
+
 <div class="col">
 
 ## Theme
@@ -63,6 +64,31 @@ AI reflects what we bring to it:
 <div class="col">
 
 ![Right column image placeholder](img/your-image-2.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col">
+
+## Two Views of AI
+
+### Groupthink Pessimist | Intentional Optimist
+
+- Using AI because I have to keep my job | Using AI to amplify work I enjoy
+- AI will replace me | AI will enhance me
+- AI is a threat to creativity | AI is a catalyst for creativity
+- AI makes me less human | AI helps me be more human
+- AI is taking over | AI is empowering us
+
+> "The future isn't something that happens to us. It's something we create together."
+
+</div>
+<div class="col">
+
+![Right column image placeholder](img/your-image-2b.png)
 
 </div>
 </div>
