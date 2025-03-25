@@ -6,7 +6,7 @@ footer: 'LI: [davidcobb](https://linkedin.com/in/davidcobb)'
 paginate: true
 style: |
   section {
-    font-size: 28px;
+    font-size: 18px;
   }
   
 ---
