@@ -6,7 +6,7 @@ footer: 'LI: [davidcobb](https://linkedin.com/in/davidcobb)'
 paginate: true
 style: |
   section {
-    font-size: 100%;
+    font-size: 250%;
   }
   
 ---
@@ -39,7 +39,7 @@ style: |
 </div>
 <div class="col">
 
-![David Cobb headshot|300](img/dave-headshot-small.jpg)
+![David Cobb headshot|200](img/dave-headshot-small.jpg)
 
 </div>
 </div>
@@ -51,18 +51,18 @@ style: |
 
 - These are only possibilities & perspectives, no claim of truth!
 - Consider the ideas that serve or inspire you & leave the rest.
-- I offer THREE REFRAMES, 3 alternate perspectives, that put you in the drivers seat.
+- I offer THREE REFRAMES, 3 alternate perspectives, that put you in the drivers seat of your future.
 ---
 
 <div class="container">
 
 <div class="col">
 
-## Question!
+## How do you envision our future with AI? Pessimist or Optimist?
 </div>
 <div class="col">
 
-
+![alt text](img/dystopia-utopia1.png)
 
 </div>
 </div>
@@ -71,19 +71,50 @@ style: |
 
 ## Two Views of AI
 
-| Groupthink Pessimist | Intentional Optimist |
-|---------------------|---------------------|
-| Using AI because I have to keep my job | Using AI to amplify work I enjoy |
-| AI will replace me | AI will enhance me |
-| AI is a threat to creativity | AI is a catalyst for creativity |
-| AI makes me less human | AI helps me be more human |
-| AI is taking over | AI is empowering us |
+PESSIMIST OR OPTIMIST?
+
+---
+
+
+!----|----|----|
+| Using AI because I have to keep my job | or | Using AI to amplify work I enjoy | 
+!----|----|----|
+
+
+---
+
+!----|----|----|
+| AI will replace me | or | AI will enhance me |
+!----|----|----|
+
+
+---
+
+
+!----|----|----|
+| AI is a threat to creativity | or | AI is a catalyst for creativity |
+!----|----|----|
+
+---
+
+!----|----|----|
+| AI makes me less human | or | AI helps me be more human |
+!----|----|----|
+
+---
+
+
+!----|----|----|
+| AI is taking over | or | AI is empowering us |
+!----|----|----|
+
+---
 
 
 > "The future isn't something that happens to us. It's something we create together."
 
-[  : break out into 1 per slide. Ask question for raised hands, get interaction, build repoire.
-Get social proof for possibility versus fear based answers]
+---
+
 ---
 
 <div class="container">
@@ -106,7 +137,7 @@ They were called dreamers. Unrealistic. Impractical.
 </div>
 <div class="col">
 
-![Vintage computer advertisement](img/your-image-3.png)
+![Vintage computer advertisement](img/vintage-pc-ad(small).png.png)
 
 </div>
 </div>
@@ -175,6 +206,11 @@ But the voice says:
 - Protect what you have
 - Watch others innovate
 
+
+
+</div>
+<div class="col">
+
 **Path B:** Embrace co-creation
 - Partner with AI
 - Express your vision
@@ -183,7 +219,12 @@ But the voice says:
 </div>
 <div class="col">
 
-![Crossroads decision](img/your-image-6.png)
+**Path B:** Embrace co-creation
+- Partner with AI
+- Express your vision
+- Shape the future
+
+![Crossroads decision](img/dystopia-utopia1(small).png)
 
 </div>
 </div>
@@ -215,21 +256,25 @@ What will you create?
 
 ---
 
+Getting there means changing your thinking, your beliefs. Here are 3 reframes to consider.
+
+---
+
 <div class="container">
 <div class="col">
 
 ## Reframe # 1 : AI as a Thought Partner, Not a Boss
 
-🤝 From fear to **possibility**
+🤝 From drudgery to **possibility**
 
 💡 From control to **co-creation**
 
-🎷 From orchestration to **improvisation**
+🎷 From  to **improvisation**
 
 </div>
 <div class="col">
 
-![Right column image placeholder|300](img/cafe-conversation.webp)
+![Right column image placeholder|300](img/students-robots-chat(small).png)
 
 </div>
 </div>
@@ -239,52 +284,19 @@ What will you create?
 <div class="container">
 <div class="col">
 
-## Reframing # 2 : AI As Mirror rather than Machine
+## Reframe # 2 : AI As Mirror rather than Machine
 
 AI is a Mirror of Our Mindset:
 
-- Our fears manifest as limitations
-- Our curiosity unlocks possibilities
-- Our need for control transforms into partnership
+- Software rules apply: garbage in, garbage out.
+- Our fears manifest as limitations, but curiosity unlocks possibilities
+- When we change how we see ourselves, we change what's possible with AI.
 
-When we change how we see ourselves,
-we change what's possible with AI.
-
-💭 "AI doesn't just show us technology - it reflects our own potential back to us."
-
-</div>
-<div class="col">
-
-![Right column image placeholder](img/your-image-2.png)
-
-</div>
-</div>
+💭 "The mirror of the heart must be polished before it can reflect the light."
 
 
 
----
 
-<div class="container">
-<div class="col">
-
-## 3 Realms of Co-Creation
-
-1. 💭 **Thinking with AI**  
-   - Brainstorming, writing, expanding ideas
-
-2. 📚 **Learning with AI**  
-   - Customized learning, Azure tutorials
-
-3. 🛠️ **Creating with AI**  
-   - Projects, tools, content that once felt out of reach
-
-</div>
-<div class="col">
-
-![Right column image placeholder](img/your-image-6.png)
-
-</div>
-</div>
 
 ---
 
@@ -293,7 +305,7 @@ we change what's possible with AI.
 
 ## Prompt Example
 
-🧪 "I have a dream to build _____, but I am blocked by fear of _______. I believe in _______. Talk me through seeing this in a way that turns the fear into excitement. "
+🧪 "I have a dream to build _____, but I am blocked by fear of _______. I believe in _______. Talk me through seeing this fear as the path to my dream. "
 
 ➡️ Iterate. Refine. Publish.
 
@@ -307,23 +319,10 @@ we change what's possible with AI.
 
 ---
 
-<div class="container">
-<div class="col">
+# Reframe # 3 - AI As Creativity, not Control
 
-## Intentionality Is Everything
-
-⚖️ Tech is neutral.  
-💫 Direction comes from **intention**.
-
-> "Where you place your attention is what you empower."
-
-</div>
-<div class="col">
-
-![Right column image placeholder](img/your-image-8.png)
-
-</div>
-</div>
+Fear: "AI is taking control"
+Freedom: "AI gives me freedom to create what I envision"
 
 ---
 
@@ -396,5 +395,10 @@ Let's discuss your next technical, creative, or professional step!
 
 </div>
 </div>
+
+---
+
+Survival: "AI will replace my skills"
+Soul: "AI can help me express my soul's purpose"
 
 ---

@@ -37,3 +37,12 @@ Notes:
 I'm here to have a conversation about the possibilities YOU (avatar) see with AI. I am here to support you on this journey.
 
 i've got to have the conversation (listen & understand), not just transmitting amazingness. How do they want it, individual, group, tech/hands-on, certs, building something?
+
+
+---
+
+For the two view of AI slides:
+
+[  : break out into 1 per slide. Ask question for raised hands, get interaction, build repoire.
+Get social proof for possibility versus fear based answers]
+
