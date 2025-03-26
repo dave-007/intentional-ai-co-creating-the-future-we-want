@@ -3,11 +3,12 @@
 @import 'default';
 
 :root {
-  font-size: 40px;
+  font-size: 100%;
+  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .section {
-  font-size: 2rem;
+  font-size: 100%;
 }
 
 /* Flex layout for columns */

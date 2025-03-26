@@ -6,7 +6,7 @@ footer: 'LI: [davidcobb](https://linkedin.com/in/davidcobb)'
 paginate: true
 style: |
   section {
-    font-size: 18px;
+    font-size: 100%;
   }
   
 ---
@@ -28,9 +28,11 @@ style: |
 
 - 30+ years in Information Technology
    - Career path: helpdesk, web developer, dba, system administrator, cloud engineer
+[todo:CROSSROADS, SOMETHING MORE]   
 - 5 years focused on Azure Cloud:
   - Learning & Teaching, multiple certifications
   - Azure Generalist (Data & AI, Dev, Infra)
+[todo:MORE UNKNOWN JOURNEY HERE]  
 - Current Focus:
   - Exploring & Applying AI toward optimized learning
   - Teaching Clients & Community in South Florida User Groups
@@ -41,6 +43,7 @@ style: |
 
 </div>
 </div>
+
 
 ---
 
@@ -79,11 +82,140 @@ style: |
 
 > "The future isn't something that happens to us. It's something we create together."
 
-
+[  : break out into 1 per slide. Ask question for raised hands, get interaction, build repoire.
+Get social proof for possibility versus fear based answers]
 ---
 
 <div class="container">
 
+<div class="col">
+
+## A Story of Possibility
+
+100 years ago:
+- No personal computers
+- No internet
+- No smartphones
+
+Yet someone dared to imagine...
+
+> "Every person could have a computer in their home."
+
+They were called dreamers. Unrealistic. Impractical.
+
+</div>
+<div class="col">
+
+![Vintage computer advertisement](img/your-image-3.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col">
+
+## The Ember of an Idea
+
+You have something to express:
+- A story that needs telling
+- A tool that could help others
+- A vision of what could be
+
+But the voice says:
+- "I don't have the skills"
+- "I can't compete with the pros"
+- "Who am I to try?"
+
+</div>
+<div class="col">
+
+![Spark of creativity](img/your-image-4.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col">
+
+## From Survival to Creation
+
+### The Old Story
+- "I need to protect my job"
+- "I need to keep up"
+- "I need to survive"
+
+### The New Story
+- "I can amplify my creativity"
+- "I can explore my ideas"
+- "I can create what matters"
+
+</div>
+<div class="col">
+
+![Transform mindset](img/your-image-5.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col">
+
+## Your Crossroads Moment
+
+🔄 We're at an inflection point:
+
+**Path A:** Stay in survival mode
+- Keep up with AI
+- Protect what you have
+- Watch others innovate
+
+**Path B:** Embrace co-creation
+- Partner with AI
+- Express your vision
+- Shape the future
+
+</div>
+<div class="col">
+
+![Crossroads decision](img/your-image-6.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col">
+
+## That Ember Inside You
+
+Remember that idea you had?
+The one that made you think:
+*"If only I could..."*
+
+Now you can.
+
+> "The best time to plant a tree was 20 years ago. The second best time is now."
+
+What will you create?
+
+</div>
+<div class="col">
+
+![Growing idea](img/your-image-7.png)
+
+</div>
+</div>
+
+---
+
+<div class="container">
 <div class="col">
 
 ## Reframe # 1 : AI as a Thought Partner, Not a Boss
@@ -129,26 +261,6 @@ we change what's possible with AI.
 </div>
 
 
----
-
-<div class="container">
-<div class="col">
-
-## Barriers AI Can Break
-
-| Past Limitation       | AI Augmentation       |
-|-----------------------|------------------------|
-| Fear of being wrong   | Instant feedback       |
-| No time               | Fast first drafts      |
-| Can't code            | Natural language tools |
-
-</div>
-<div class="col">
-
-![Right column image placeholder](img/your-image-5.png)
-
-</div>
-</div>
 
 ---
 
@@ -179,9 +291,9 @@ we change what's possible with AI.
 <div class="container">
 <div class="col">
 
-## Demo Prompt Example
+## Prompt Example
 
-🧪 "Create a rough outline for a 3-minute video explaining Azure AI to business decision-makers."
+🧪 "I have a dream to build _____, but I am blocked by fear of _______. I believe in _______. Talk me through seeing this in a way that turns the fear into excitement. "
 
 ➡️ Iterate. Refine. Publish.
 
@@ -259,13 +371,14 @@ we change what's possible with AI.
 
 ## Stay Connected! 📬
 
+### Dave's Possibilities Email List 
+
 ## Upcoming Azure AI Events in April
 - Microsoft AI SkillFest
 - Global AI Bootcamp
 
 ✉️ **Sign up for email event updates:**  
 [bit.ly/azure-ai-events](http://bit.ly/azure-ai-events)
-
 
 
 ## Let's Connect! 🤝
@@ -285,4 +398,3 @@ Let's discuss your next technical, creative, or professional step!
 </div>
 
 ---
-
