@@ -18,6 +18,10 @@ style: |
 # Intentional AI  
 ## Co-Creating the Future That We Want
 
+---
+
+### Abstract:
+> AI doesn’t shape the future—we do. How we engage with it determines whether it amplifies creativity and connection or diminishes human agency. This talk explores how to integrate AI with intention, ensuring it enhances our potential rather than dictates our path. By aligning technology with wisdom, we become active co-creators of a future that reflects our values.
 
 ---
 
@@ -35,7 +39,7 @@ style: |
 [todo:MORE UNKNOWN JOURNEY HERE]  
 - Current Focus:
   - Exploring & Applying AI toward optimized learning
-  - Teaching Clients & Community in South Florida User Groups
+  - Teaching for Microsoft Learning Partners Clients & Community in South Florida User Groups
 </div>
 <div class="col">
 
